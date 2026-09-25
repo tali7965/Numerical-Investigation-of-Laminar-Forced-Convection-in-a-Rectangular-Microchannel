@@ -16,19 +16,6 @@ This repository contains the computational fluid dynamics (CFD) investigation of
 
 ---
 
-## Deliverables & Repository Structure
-
-The primary deliverable in this repository is the complete, publication-ready academic report:
-
-```text
-├── Project-Report.pdf     # Full 18-page academic CFD engineering report
-├── README.md              # Project summary and documentation
-├── .gitignore             # Configured ignore rules
-└── .source_backup/        # Archived LaTeX source (report.tex), figures, and assets
-```
-
----
-
 ## Scientific Background & Physical Significance
 Microchannel heat sinks represent an essential cooling paradigm for high-heat-flux microelectronics, laser diodes, and compact micro-heat exchangers due to their extreme surface-area-to-volume ratio ($A/V \sim 10^4\text{ m}^{-1}$). Flow in microchannels exhibits key physical transport characteristics:
 1. **Laminar Transport Dominance:** Operating at low Reynolds numbers ($Re \le 300 \ll Re_{\text{cr}} \approx 2300$), mixing and heat removal are governed by steady laminar convection and thermal diffusion.
